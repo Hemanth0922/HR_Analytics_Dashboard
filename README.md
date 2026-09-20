@@ -4,10 +4,6 @@ An interactive Power BI dashboard that analyzes HR data for 183 employees across
 
 
 
-![Dashboard](dashboard.png)
-
-
-
 ## Dataset
 - **File:** `hr-data.xlsx` (183 rows, 8 columns)
 - **Columns:** Name, Gender, Age, Rating, Date Joined, Department, Salary, Country
